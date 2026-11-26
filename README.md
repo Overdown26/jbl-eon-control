@@ -33,3 +33,7 @@ El registro de actividad se guarda en `~/Library/Logs/JBLEONControl.log`.
 ## Cómo funciona
 
 Usa CoreBluetooth sobre el servicio GATT `FDDF` de las bocinas. El protocolo se obtuvo por ingeniería inversa y puede cambiar con actualizaciones de firmware. Todo el código está en `Sources/main.swift`.
+
+## Licencia
+
+[MIT](LICENSE)
