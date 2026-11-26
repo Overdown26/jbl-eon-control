@@ -1,0 +1,7 @@
+.DS_Store
+build/
+dist/
+*.app
+# Datos extraídos de la app oficial y volcados de bocinas propias
+tools/*.json
+tools/*_dump.txt
